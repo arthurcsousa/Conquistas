@@ -1,4 +1,4 @@
-package exercicios_projeto_jedi.conquista02;
+package conquista02;
 
 //Criar um código que verifica se um valor de uma variável é igual a cem.
 // Caso verdadeiro, escrever no console: “Verdadeiro”.

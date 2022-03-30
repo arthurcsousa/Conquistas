@@ -1,4 +1,4 @@
-package exercicios_projeto_jedi.conquista01;
+package conquista01;
 //Criar um código dentro do método main que soma dois números e exibe o valor ao final do programa.
 
 public class Exercicio03 {

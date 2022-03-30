@@ -1,4 +1,4 @@
-package exercicios_projeto_jedi.conquista01;
+package conquista01;
 
 import java.util.Scanner;
 

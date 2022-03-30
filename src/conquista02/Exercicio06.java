@@ -1,4 +1,4 @@
-package exercicios_projeto_jedi.conquista02;
+package conquista02;
 
 //Criar um código com uma estrutura SWITCH que verifica se o valor de uma variável é igual ao case (a, b, c e default).
 // O código deve executar apenas o default com a mensagem: “O valor não é compatível”.

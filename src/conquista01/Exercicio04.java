@@ -1,4 +1,4 @@
-package exercicios_projeto_jedi.conquista01;
+package conquista01;
 //Criar um código que declara e inicializa variáveis do tipo primitivo dentro do método main.
 
 public class Exercicio04 {
